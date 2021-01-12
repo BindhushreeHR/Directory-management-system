@@ -1,0 +1,5 @@
+Mile 1f
+NauticalMile 1f
+AmericanFootballField 1f
+Hand 1f
+Horse 1f

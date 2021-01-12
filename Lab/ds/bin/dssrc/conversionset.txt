@@ -1,0 +1,1 @@
+Meter 1f Millimeter 1000f Centimeter 100f Kilometer 0.001f AstronomicalUnit 0.05f

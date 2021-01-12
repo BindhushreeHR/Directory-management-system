@@ -1,0 +1,5 @@
+Parsec 1f
+LightYear 1000f
+Inch 100f
+Foot 0.001f
+Yard 0.05f
